@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/01 13:00:35.000.891,=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 13:01:00.000.725,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmPrincipal.pas</Transaction>
+    <Transaction>2019/10/01 13:01:00.000.725,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2019/10/01 13:48:01.000.451,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Tabata\Documents\App_Indice\Studio\Projects\App_Indice.dproj</Transaction>
+    <Transaction>2019/10/01 13:53:10.000.899,=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 13:54:58.000.821,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmRequisito.dfm=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/01 13:54:58.000.821,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmRequisito.pas=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/02 20:05:10.000.210,=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/02 20:05:25.000.935,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmResultado.pas=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/02 20:05:25.000.935,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uFrmResultado.dfm=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/10/02 20:46:09.000.761,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj</Transaction>
+    <Transaction>2019/10/02 20:47:49.000.563,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj</Transaction>
+    <Transaction>2019/10/02 20:50:29.000.134,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\App_Indice.dproj</Transaction>
+    <Transaction>2019/10/02 21:35:29.000.894,=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/02 21:36:16.000.832,C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Tabata\Documents\Embarcadero\Studio\Projects\uDadosPessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>
