@@ -59,7 +59,7 @@ object frmPrincipal: TfrmPrincipal
     Width = 468
     Height = 57
     Align = alTop
-    Caption = 'Calculadora de '#205'ndice Corporal 1.0'
+    Caption = 'Calculadora de '#205'ndice Corporal'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -16
